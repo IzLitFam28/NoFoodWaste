@@ -2,9 +2,13 @@
 Tugas SE Kelompok 12
 ****
 2602080661 - Jeremy Christopher Najogi Simatupang 
+
 2602085473 - William Viriya Halim
+
 2602079306 - Julius Lie
+
 2602079703 - Christhoforus Delon Yudistira
+
 2602078423 - Kenneth Lie
 
 
