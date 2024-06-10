@@ -53,6 +53,7 @@ def log_out():
     
 functions = {
     "Home": pg.show_home,
+    "Discussion": pg.show_discussion,
     "Profile": pg.show_profile,
     "Logout": log_out,
 }
