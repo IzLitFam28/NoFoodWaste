@@ -30,3 +30,8 @@ Secara langsung dengan menggunakan website ini user telah berkontribusi terhadap
 **Manfaat**
 1. Memberikan cara yang efisien bagi pengguna untuk merencanakan makanan berdasarkan apa yang tersedia, menghilangkan kebutuhan untuk belanja bahan makanan di menit-menit terakhir.
 2. Berkontribusi terhadap kelestarian lingkungan dengan meminimalkan limbah makanan dan mendorong konsumsi makanan secara bijaksana.
+
+![image](https://github.com/IzLitFam28/NoFoodWaste/assets/127728313/67c472ab-42f1-4fd3-a2da-8d3f9591d008)
+![image](https://github.com/IzLitFam28/NoFoodWaste/assets/127728313/a2702c17-2dad-4847-be64-45d33bdf3eda)
+![image](https://github.com/IzLitFam28/NoFoodWaste/assets/127728313/c05615a6-e217-4213-97e9-ab06173f3b20)
+![image](https://github.com/IzLitFam28/NoFoodWaste/assets/127728313/080d8a4f-0dde-488e-80c1-d0e50428bd22)
