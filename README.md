@@ -8,6 +8,7 @@ Members:
 + 2602079703 - Christhoforus Delon Yudistira
 + 2602078423 - Kenneth Lie
 
+Website inovatif yang memiliki kemampuan untuk menerima input dari user berupa semua bahan makanan yang tersedia untuk dibuat menjadi masakan yang layak dikonsumsi melalui resep serta tahapan memasaknya.
 
 **Latar Belakang**
 
