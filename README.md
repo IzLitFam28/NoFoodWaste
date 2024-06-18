@@ -21,3 +21,12 @@ Website ini memungkinkan pengguna untuk dengan mudah menginput bahan-bahan yang 
 Dengan menyediakan solusi praktis dan edukatif untuk tantangan sehari-hari terkait dengan kebutuhan makanan, platform ini diharapkan dapat menjadi teman setia bagi para pengguna dalam menjelajahi dunia memasak dengan kreativitas dan keyakinan yang baru.
 
 Secara langsung dengan menggunakan website ini user telah berkontribusi terhadap kelestarian lingkungan dengan meminimalkan limbah makanan dan mendorong konsumsi makanan secara bijaksana.
+
+
+Tujuan
+1. Menginspirasi pengguna agar mencoba resep dan teknik memasak baru dengan menggunakan bahan-bahan yang sudah mereka miliki, sehingga meningkatkan keterampilan kuliner mereka dan menambah variasi pada makanan mereka.
+2. Membantu pengguna memanfaatkan bahan masak yang sudah ada di dapur, lemari es, dan freezer sehingga tidak ada bahan yang terbuang.
+
+Manfaat
+1. Memberikan cara yang efisien bagi pengguna untuk merencanakan makanan berdasarkan apa yang tersedia, menghilangkan kebutuhan untuk belanja bahan makanan di menit-menit terakhir.
+2. Berkontribusi terhadap kelestarian lingkungan dengan meminimalkan limbah makanan dan mendorong konsumsi makanan secara bijaksana.
